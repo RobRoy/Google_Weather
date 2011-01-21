@@ -8,7 +8,7 @@ $gw->place = "berlin, germany";
 $gw->locale = "de";
 $test = $gw->get_weather();
 
-get_weather() returns an two-dimensional array with alle the information from the Google API. For a reference see below.
+get_weather() returns an two-dimensional array with all the information from the Google API. For a reference see below.
 For an example on how to use the data from this array see the index.php in the root.
 
 -=Array Contents=-
@@ -46,7 +46,7 @@ For an example on how to use the data from this array see the index.php in the r
 
 -=Features=-
 
-- possibility to set a language for the 
+- possibility to set a language for the returned data strings 
 
 -=Wishlist=_
 
