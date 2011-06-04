@@ -60,4 +60,4 @@ Wishlist (a.k.a. the stuff I will add when I get around to it)
 --------------------------------------------------------------
 
 1. caching of a queried results
-2. add the (official) Yahoo! Weather API as a fallback/2nd option (hence renaming the project)
+2. add the (official) Yahoo! Weather API as a fallback/2nd option (possibly renaming the project)
