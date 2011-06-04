@@ -6,6 +6,10 @@
  *
  * @author Robert Schmidl
  * @version 0.5
+ *
+ *
+ * Licensed under the MIT license: http://www.opensource.org/licenses/mit-license.php
+ *
  **/
 
 class googleWeather{
